@@ -30,7 +30,7 @@ author: Jason Musgrave
 favicon: ./img/gotr/gotr-icon.svg
 #############
 layout: intro-image
-image: './img/wave.webp'
+image: './brain.webp'
 ---
 
 <!-- # Creating an ExoBrain -->
