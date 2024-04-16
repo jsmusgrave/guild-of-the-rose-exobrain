@@ -6,10 +6,12 @@ Presentation Text Content licensed under [CC BY 4.0](https://creativecommons.org
 see [license.txt](./license.txt)
 
 Guild of the Rose images Copyright © 2022, The Guild of the ROSE
+(Guild of the Rose images are under img/gotr)
+
+Other images are Generated from paid OpenAI/DALL-E accounts.
 
 Slidev content under Slidev license
 see [License on Slidev github](https://github.com/slidevjs/slidev/blob/main/LICENSE)
-
 
 ## Presentation using to [Slidev](https://github.com/slidevjs/slidev)!
 ### Requirements
