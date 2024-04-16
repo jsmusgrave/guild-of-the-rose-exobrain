@@ -5,9 +5,9 @@ theme: apple-basic
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 ## This is only used by default & seriph
-background: ./img/chuttersnap-gKmpcDQWPmY-unsplash.jpg
+background: ./img/wave.webp
 # some information about your slides, markdown enabled
-title: Welcome to Slidev
+title: Building An Exobrain - GOTR
 info: |
   ## Building an Exobrain
    Guild of the Rose
