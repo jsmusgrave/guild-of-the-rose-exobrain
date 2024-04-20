@@ -222,6 +222,7 @@ li:not(li li) {
   * Define, Track, Organize and Do Tasks
 * Organize and inputs
 * Retain and expand on thoughts
+* Examples?
 
 ---
 layout: section
@@ -348,6 +349,15 @@ class: text-center
 # Demos
 ## Task Managment
 
+---
+layout: intro-image-right
+image: ./img/brain-point.webp
+class: text-center
+---
+
+# Your Turn!
+## Try Some Task Managment
+
 
 ---
 layout: two-cols-headers-jsm
@@ -385,6 +395,15 @@ class: text-center
 
 # Demos
 ## Notes
+
+---
+layout: intro-image-right
+image: ./img/brain-point.webp
+class: text-center
+---
+
+# Your Turn!
+## Try A Note Tool
 
 ---
 layout: intro-image-right
