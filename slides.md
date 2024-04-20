@@ -41,7 +41,7 @@ image: './brain.webp'
 
 <div class="absolute top-10">
   <span class="font-700">
-      {{ $slidev.configs.author }} / 2024-04-20
+      {{ $slidev.configs.author }} / 2024-04-21
   </span>
 </div>
 
